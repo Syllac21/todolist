@@ -1,0 +1,17 @@
+{
+    "list":[
+        {
+            "titre" : "refixer le vidéoprojecteur",
+            "description" : "Il faut refixer le vidéoprojecteur avant que quelqu'un ne se le prenne sur le coin du nez",
+            "echeance" : "05/11/2024",
+            "etat" : "pending"
+        },
+
+        {
+            "titre" : "recharger mon tel",
+            "description" : "Il faut recharger le tel avant qu'il ne s'éteigne",
+            "echeance" : "05/10/2024",
+            "etat" : "pending"
+        }
+    ]
+}
